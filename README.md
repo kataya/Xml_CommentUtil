@@ -12,7 +12,7 @@ ArcMap でのデフォルト ロケータの設定（DefaultLocators.xml）を�
 
 切り替えは <portal_locators> で定義されたXML要素と、<locator_ref> で定義されたXML要素に対応しています。
 
-![デフォルト ロケータ設定変更ツール](https://github.com/kataya/Xml_CommentUtil/img/XmlCommentUtility_main.png)
+![デフォルト ロケータ設定変更ツール](/img/XmlCommentUtility_main.png)
 
 ## 仕様
 
