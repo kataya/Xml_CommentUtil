@@ -8,7 +8,11 @@ ArcMap でのデフォルト ロケータの設定（DefaultLocators.xml）を�
 通常は DefaultLocators.xml の有効化/無効化には、XMLファイルをテキストエディタで編集する必要がありますが、
 本ツールを利用するとGUIで切り替えすることが可能です。
 
+コンパイル済みのアプリケーションは[こちら](https://github.com/kataya/Xml_CommentUtil/releases) にあります。
+
 切り替えは <portal_locators> で定義されたXML要素と、<locator_ref> で定義されたXML要素に対応しています。
+
+![デフォルト ロケータ設定変更ツール](https://github.com/kataya/Xml_CommentUtil/tree/master/img/XmlCommentUtility_main.png)
 
 ## 仕様
 
